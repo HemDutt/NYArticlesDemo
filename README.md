@@ -2,7 +2,7 @@
 
 ## Overview
 
-NYArcticlesDemo is a iOS application to show NY Times Most Popular Articles.
+NYArcticlesDemo is a iOS application to show NY Times Most Popular Articles. This Demo application showcases the use of MVVM architecture and implementation of Unit and UI test case using XCTest Framework.
 
 ## Requirements
 
